@@ -12,3 +12,5 @@ git pull origin main
 
 
 here i am editing from within github, in prep for pull request to visual code
+
+https://github.com/bobbyiliev/introduction-to-git-and-github-ebook
